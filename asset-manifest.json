@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Router/static/css/main.e811079b.css",
+    "main.js": "/Router/static/js/main.a9a9fa41.js",
+    "static/js/453.e52305e5.chunk.js": "/Router/static/js/453.e52305e5.chunk.js",
+    "static/media/t-1.jpg": "/Router/static/media/t-1.9e45a21a1f3cc25e8b28.jpg",
+    "static/media/k11.jpg": "/Router/static/media/k11.b7e3277f2c3acc647fd9.jpg",
+    "static/media/1.jpg": "/Router/static/media/1.dd2836646f396e54b38d.jpg",
+    "static/media/t-2.jpg": "/Router/static/media/t-2.9785b911b5caa890e2d8.jpg",
+    "static/media/3.jpg": "/Router/static/media/3.9dfe0573714944fac433.jpg",
+    "static/media/2.jpg": "/Router/static/media/2.e3ae43999a3adaf25d07.jpg",
+    "static/media/t-3.jpg": "/Router/static/media/t-3.e180b9172cdbf116cd3d.jpg",
+    "static/media/k1.jpg": "/Router/static/media/k1.9fb4afd14b055493886e.jpg",
+    "static/media/c11.jpg": "/Router/static/media/c11.f2dd8232965810b13bf5.jpg",
+    "static/media/k3.jpg": "/Router/static/media/k3.59f7699207fa36817132.jpg",
+    "static/media/k2.jpg": "/Router/static/media/k2.491f6b4d0136797cb6d1.jpg",
+    "index.html": "/Router/index.html",
+    "main.e811079b.css.map": "/Router/static/css/main.e811079b.css.map",
+    "main.a9a9fa41.js.map": "/Router/static/js/main.a9a9fa41.js.map",
+    "453.e52305e5.chunk.js.map": "/Router/static/js/453.e52305e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e811079b.css",
+    "static/js/main.a9a9fa41.js"
+  ]
+}
